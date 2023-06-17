@@ -6,7 +6,7 @@
   <br/>
   Cryptocurrency Dashboard
   <h3 align="center">
-    Discover Cryptos, charts, and MarketCaps !
+    Discover Cryptos, Charts, And MarketCaps !
 </h3>
 
 <br/>
@@ -29,14 +29,14 @@
 <p>
     Cryptocurrency Dashboard is a web application that allows users to view cryptocurrency trends and their past price through graphical visualization.</p>
 <br />
-Visit <a href="https://cryptocurrency-dashhboard.vercel.app/">Cryptocurrency-dashboard</a> and discover cryptos, charts, and MarketCaps!
+Visit <a href="[https://cryptocurrency-dashhboard.vercel.app/](https://cryptocurrency-dashboard-eight.vercel.app/)">Cryptocurrency-Dashboard</a> and Discover Cryptos, Charts, and MarketCaps!
 
 ![DashBoard home page](https://user-images.githubusercontent.com/63870995/210148826-04032249-b0a7-4958-8a53-d1a5953bab92.png)
 
 <br />
 <!-- FEATURES -->
 
-## **FEATURES**
+## **Features**
 - user can view data visuals through dynamic graphs
 - user can search cryptos 
 - user can sort cryptos
@@ -97,9 +97,9 @@ If you want to contribute or have ideas for this project, just fork the repo and
 
 <br />
   
-## NOTE
+## Note
   <p> This capstone project is associated with <a href="https://www.almabetter.com">Almabetter</a>.</p>
 
-## DISCLAIMER
+## Disclaimer
 <p> I don't own any of the logos or images used in the project all belongs to their respected owners. </p>
   
