@@ -29,7 +29,7 @@
 <p>
     Cryptocurrency Dashboard is a web application that allows users to view cryptocurrency trends and their past price through graphical visualization.</p>
 <br />
-Visit <a href="[https://cryptocurrency-dashhboard.vercel.app/](https://cryptocurrency-dashboard-eight.vercel.app/)">Cryptocurrency-Dashboard</a> and Discover Cryptos, Charts, and MarketCaps!
+Visit <a href="https://cryptocurrency-dashboard-eight.vercel.app/">Cryptocurrency-Dashboard</a> and Discover Cryptos, Charts, and MarketCaps!
 
 ![DashBoard home page](https://user-images.githubusercontent.com/63870995/210148826-04032249-b0a7-4958-8a53-d1a5953bab92.png)
 
